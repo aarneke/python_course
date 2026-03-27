@@ -1,2 +1,1 @@
-# this_is_a_test
-42
+Assignment for Python course
