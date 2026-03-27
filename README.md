@@ -4,4 +4,4 @@ the file fourier_series_assignment.py includes all of the code.
 
 The images generated from the code are in the files "Task_1_Figure.png", "Task_2_Figure.png", "Convergence_Figure.png" and "FFT_Figure.png"
 
-And in the results.pdf you find the short report for the assignment. 
+And in the assignment_report.pdf you find the short optional report for the assignment. 
